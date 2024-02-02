@@ -12,6 +12,6 @@ Data mohou být ukládány do různých datasetů zde byl vybrán nejjednoduší
 - `CSFD2.py`: Hlavní skript pro web scraping na CSFD.
 - `filmy_data.csv`: Soubor CSV obsahující informace o top 100 filmech na CSFD.
 
-python IMDB2.py
+.. csv-table::
+    :file: filmy_data.csv
 
-python CSFD2.py
