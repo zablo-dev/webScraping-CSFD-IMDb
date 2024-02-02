@@ -9,9 +9,8 @@ Data mohou být ukládány do různých datasetů zde byl vybrán nejjednoduší
 
 - `IMDB2.py`: Hlavní skript pro web scraping na IMDB.
 - `movies_data.csv`: Soubor CSV obsahující informace o top 250 filmech na IMDB.
+[movies_data.csv](https://github.com/zablo-dev/webScraping-CSFD-IMDb/files/14142365/movies_data.csv)
 - `CSFD2.py`: Hlavní skript pro web scraping na CSFD.
 - `filmy_data.csv`: Soubor CSV obsahující informace o top 100 filmech na CSFD.
-
-.. csv-table::
-    :file: filmy_data.csv
+[filmy_data.csv](https://github.com/zablo-dev/webScraping-CSFD-IMDb/files/14142346/filmy_data.csv)
 
